@@ -1,0 +1,5 @@
+{"or-minutes":     [5, 15, 30],
+ "entry-type":     ["stop", "close"],
+ "stop-frac":      [0.5, 1.0],
+ "target-r":       [0, 1.5, 3],
+ "max-trades-day": [1, 2]}
