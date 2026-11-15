@@ -1,0 +1,5 @@
+{"gex-buffer":            [0.0, 0.0025],
+ "short-strikes":         ["atm", "walls"],
+ "iv-rv-min":             [0, 1.2],
+ "stop-loss":             [0.5, 1.0],
+ "exit-on-regime-change": [0, 1]}
