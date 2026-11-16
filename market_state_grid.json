@@ -1,0 +1,6 @@
+{"bar-minutes":  [5, 15],
+ "trend-entry":  ["breakout", "pullback"],
+ "high-vol":     ["flat", "trend", "all"],
+ "stop-atr":     [1.5, 2.5],
+ "trail-atr":    [2.0, 4.0],
+ "overnight":    [0, 1]}

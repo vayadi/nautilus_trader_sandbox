@@ -1,0 +1,6 @@
+{"adx-trend":     [20, 25, 30],
+ "adx-range":     [15, 20],
+ "slope-min":     [0.0, 0.05],
+ "vol-high":      [0.7, 0.85],
+ "confirm-bars":  [1, 3],
+ "exit-on-state": [0, 1]}
