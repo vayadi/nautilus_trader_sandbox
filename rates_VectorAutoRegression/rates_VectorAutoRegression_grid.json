@@ -1,0 +1,7 @@
+{
+  "lags": [1, 2, 3, 5, 10],
+  "transform": ["diff", "level"],
+  "window": [0, 750, 1500],
+  "freq": ["D", "W"],
+  "inputs": ["ALL", "SINGLE", "EUR+USD", "EUR+CHF", "EUR+USD+GBP"]
+}
